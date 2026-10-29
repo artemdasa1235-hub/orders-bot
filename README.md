@@ -55,5 +55,4 @@ python bot.py
 
 ## Автор
 
-[Artem](https://github.com/artemdasa1235-hub) — учебный проект: упрощённый
-аналог заявочного модуля CRM на Python.
+[Artem](https://github.com/artemdasa1235-hub) 
